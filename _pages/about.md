@@ -6,6 +6,7 @@ author_profile: true
 redirect_from: 
   - /about/
   - /about.html
+  - //
 ---
 
 I am currently a Ph.D. candidate in System Engineering at the University of Virginia. I work in Autonomous Mobile Robots Lab and Link Lab under the supervision of Prof. Nicola Bezzo. Before joining AMR Lab, I obtained my MS and BS degrees in Electrical and Electronics Engineering at Bogazici University, Istanbul in 2016 and 2014 respectively. 
