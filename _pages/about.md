@@ -18,7 +18,7 @@ In my free time, I enjoy hiking, yoga, collecting vintage photographs, watching 
 
 Recent News
 ===
-* June 2021, I'm selected for Robotics: Science and Systems (RSS) Pioneers Workshop - "each year the RSS Pioneers brings together a cohort of the world’s top early-career researchers" [Workshop Website](https://sites.google.com/view/rsspioneers2021 "Workshop Website") 
+* June 2021, I'm selected for Robotics: Science and Systems (RSS) Pioneers Workshop - *"Each year the RSS Pioneers brings together a cohort of the world’s top early-career researchers"* [Workshop Website](https://sites.google.com/view/rsspioneers2021 "Workshop Website") 
 
 * December 2020, I presented my research at the inaugural Link Lab Student Seminar and received an award. [Link](https://engineering.virginia.edu/news/2021/01/link-lab-industry-initiative-fosters-next-generation-cyber-physical-systems-researchers "Link") [Link](https://engineering.virginia.edu/esen-yel-recognized-excellence-autonomous-systems-research "Link") [Video](https://www.youtube.com/watch?v=LsP7yxGzHIU&t=1908s, "Video")
 
