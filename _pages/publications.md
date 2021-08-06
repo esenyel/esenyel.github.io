@@ -16,12 +16,18 @@ of Intelligent and Robotic Systems, 2020 [PDF](https://link.springer.com/epdf/10
 
 Conference Publications
 ===
-* **E. Yel**, N. Bezzo, ”_GP-based Runtime Planning, Learning, and Recovery for Safe UAV Operations under Unforeseen Disturbances_” IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS) 
+* **E. Yel**, N. Bezzo, ”_A Meta-Learning-based Trajectory Tracking Framework for UAVs under Degraded Conditions_” IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS) [PDF](https://arxiv.org/abs/2104.15081 "IROS'21")
+
+* **E. Yel**, N. Bezzo, ”_GP-based Runtime Planning, Learning, and Recovery for Safe UAV Operations under Unforeseen Disturbances_” IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS) 2020 [PDF](https://ieeexplore.ieee.org/document/9341641 "IROS'20")
 * **E. Yel** and N. Bezzo, "_Fast Run-time Monitoring, Replanning, and Recovery for Safe Autonomous System Operations_” 2019 IEEE/RSJ
 International Conference on Intelligent Robots and Systems (IROS), Macau, China, pp. 1661-1667.  [PDF](https://ieeexplore.ieee.org/document/8968498 "IROS'19")
 * **E. Yel**, T. X. Lin and N. Bezzo, ”_Self-triggered Adaptive Planning and Scheduling of UAV Operations_,” IEEE International Conference on Robotics and Automation (ICRA), Brisbane, 2018 [PDF](https://ieeexplore.ieee.org/document/8463205 "ICRA'18")
 * T. X. Lin, **E. Yel** and N. Bezzo, ”_Energy-aware Persistent Control of Heterogeneous Robotic Systems_,” American Control Conference (ACC), Milwaukee, WI, 2018  [PDF](https://ieeexplore.ieee.org/document/8431238 "ACC'18")
 * **E. Yel**, T. X. Lin and N. Bezzo, ”_Reachability-based self-triggered scheduling and replanning of UAV operations_,” NASA/ESA Conference on Adaptive Hardware and Systems (AHS), Pasadena, CA, 2017, pp. 221-228. [PDF](https://ieeexplore.ieee.org/document/8046382 "AHS'17") 
+
+Dissertation
+===
+* **E. Yel**, ”_Online Predictive Monitoring and Proactive Planning for Safe Autonomous Robot Operations_”, University of Virginia, August 2021, [PDF](https://libraetd.lib.virginia.edu/public_view/9s161713h, "Dissertation")
 
 Workshop and Symposium Publications
 ===
