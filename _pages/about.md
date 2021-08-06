@@ -20,7 +20,7 @@ Recent News
 ===
 * July 2021, I received Link Lab Outstanding Graduate Research Award!
 
-* July 2021, I have completed my Ph.D. difference. [Dissertation](https://libraetd.lib.virginia.edu/public_view/9s161713h "Dissertation")
+* July 2021, I have completed my Ph.D. defense. [Dissertation](https://libraetd.lib.virginia.edu/public_view/9s161713h "Dissertation")
 
 * July 2021, Our paper "A Meta-Learning-based Trajectory Tracking Framework for UAVs under Degraded Conditions" got accepted at IROS 2021 [Arvix Paper](https://arxiv.org/abs/2104.15081 "Arvix paper")
 
