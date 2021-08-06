@@ -20,7 +20,7 @@ Runtime Planning, Learning, and Recovery under Unforeseen Disturbances
 
 Autonomous systems are typically designed and trained to work under certain system and environmental conditions. However, in real-world applications, the system may face unexpected situations such as component failures, variation in payload distribution or changes in model dynamics at runtime. Such factors could lead the system to undesired conditions if they are not properly taken into consideration. 
 
-To provide safety under unforeseen distrurbances at runtime,  a fast online planning, learning, and recovery approach is introduced. By leveraging Gaussian Process regression theory in which a model is continuously trained and adapted using data collected during the autonomous operation, the disturbance and its effects are predicted at runtime to plan safe trajectories. This approach is validated on simulations and experiments on a UAV carrying an unknown payload outside of the training bounds.
+To provide safety under unforeseen distrurbances at runtime,  a fast online planning, learning, and recovery approach is introduced. By leveraging Gaussian Process regression theory in which a model is continuously trained and adapted using data collected during the autonomous operation, the disturbance and its effects are predicted at runtime to plan safe trajectories. This approach is validated on simulations and experiments on a UAV carrying an unknown payload outside of the training bounds.  More details, simulation and experimental results can be found in the paper: [IROS'20](https://ieeexplore.ieee.org/document/9341641 "IROS'20").
 
 Assured Runtime Monitoring and Planning
 ====
