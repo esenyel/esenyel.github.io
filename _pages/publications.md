@@ -16,7 +16,7 @@ of Intelligent and Robotic Systems, 2020 [PDF](https://link.springer.com/epdf/10
 
 Conference Publications
 ===
-* **E. Yel**, N. Bezzo, ”_A Meta-Learning-based Trajectory Tracking Framework for UAVs under Degraded Conditions_” IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS) 2021 (to appear) [PDF](https://arxiv.org/abs/2104.15081 "IROS'21")
+* **E. Yel**, N. Bezzo, ”_A Meta-Learning-based Trajectory Tracking Framework for UAVs under Degraded Conditions_” IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS) 2021 [PDF](https://arxiv.org/abs/2104.15081 "IROS'21")
 
 * **E. Yel**, N. Bezzo, ”_GP-based Runtime Planning, Learning, and Recovery for Safe UAV Operations under Unforeseen Disturbances_” IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS) 2020 [PDF](https://ieeexplore.ieee.org/document/9341641 "IROS'20")
 * **E. Yel** and N. Bezzo, "_Fast Run-time Monitoring, Replanning, and Recovery for Safe Autonomous System Operations_” 2019 IEEE/RSJ
