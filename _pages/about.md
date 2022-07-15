@@ -18,7 +18,7 @@ In my free time, I enjoy hiking, yoga, collecting vintage photographs, watching 
 
 Recent News
 ===
-* July 2022, Our paper "Dynamics-Aware Spatiotemporal Occupancy Prediction in Urban Environments" is accepted at IROS 2022.
+* July 2022, Our papers "Dynamics-Aware Spatiotemporal Occupancy Prediction in Urban Environments" and "Learning Enabled Fast Planning and Control in Dynamic Environments with Intermittent Information" are accepted at IROS 2022.
 
 * June 2022, Our paper "Meta-Learning-based Proactive Online Planning for UAVs under Degraded Conditions" is accepted to RA-L (with presentation at IROS 2022)!
 
