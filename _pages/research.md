@@ -14,7 +14,7 @@ Meta-learning-based Trajectory Tracking under Unforeseen Faults
 
 <img src="../images/iros2021-intro.png"
      alt="Trajectory adaptation"
-     caption="2021 IEEE. [IROS'21](https://ieeexplore.ieee.org/document/9635918 "IROS'21")"
+     caption="© 2021 IEEE"
      width="400" 
      height="480"
      style="float: right;" />
