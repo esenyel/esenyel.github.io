@@ -18,6 +18,8 @@ In my free time, I enjoy hiking, yoga, collecting vintage photographs, watching 
 
 Recent News
 ===
+* August 2022, I'm selected for [EECS Rising Stars Workshop] (https://risingstars.utexas.edu/ "Workshop Website") at UT Austin!
+
 * July 2022, Our papers "Dynamics-Aware Spatiotemporal Occupancy Prediction in Urban Environments" and "Learning Enabled Fast Planning and Control in Dynamic Environments with Intermittent Information" are accepted at IROS 2022.
 
 * June 2022, Our paper "Meta-Learning-based Proactive Online Planning for UAVs under Degraded Conditions" is accepted to RA-L (with presentation at IROS 2022)!
@@ -27,14 +29,6 @@ Recent News
 * June 2022, Our paper "Uncertainty-Aware Online Merge Planning with Learned Driver Behavior" is accepted to be presented at ITSC 2022. [Arvix Link](https://arxiv.org/pdf/2207.05228.pdf "Arvix link")
 
 * October 2021, I started working at [Stanford Intelligent Systems Lab](https://web.stanford.edu/group/sisl/cgi-bin/wordpress/ "SISL") as a postdoctoral scholar
-
-* July 2021, I received Link Lab Outstanding Graduate Research Award!
-
-* July 2021, I have completed my Ph.D. defense. [Dissertation](https://libraetd.lib.virginia.edu/public_view/9s161713h "Dissertation")
-
-* July 2021, Our paper "A Meta-Learning-based Trajectory Tracking Framework for UAVs under Degraded Conditions" got accepted at IROS 2021 [Arvix Paper](https://arxiv.org/abs/2104.15081 "Arvix paper")
-
-* June 2021, I'm selected for Robotics: Science and Systems (RSS) Pioneers Workshop - *"Each year the RSS Pioneers brings together a cohort of the world’s top early-career researchers"* [Workshop Website](https://sites.google.com/view/rsspioneers2021 "Workshop Website") 
 
 
 
