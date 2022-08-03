@@ -18,7 +18,7 @@ In my free time, I enjoy hiking, yoga, collecting vintage photographs, watching 
 
 Recent News
 ===
-* August 2022, I'm selected for [EECS Rising Stars Workshop] (https://risingstars.utexas.edu/ "Workshop Website") at UT Austin!
+* August 2022, I'm selected for [EECS Rising Stars Workshop](https://risingstars.utexas.edu/ "Workshop Website") at UT Austin!
 
 * July 2022, Our papers "Dynamics-Aware Spatiotemporal Occupancy Prediction in Urban Environments" and "Learning Enabled Fast Planning and Control in Dynamic Environments with Intermittent Information" are accepted at IROS 2022.
 
