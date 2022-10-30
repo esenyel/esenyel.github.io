@@ -10,7 +10,7 @@ Most of the publications can be also found on my Google Scholar profile: [Google
 
 Journal Publications
 ===
-* **E. Yel***, Shijie Gao*, N. Bezzo, ”_Meta-Learning-based Proactive Online Planning for UAVs under Degraded Conditions_”, (*equal contribution), Robotics and Automation Letters (RA-L), 2022 (accepted)
+* **E. Yel***, Shijie Gao*, N. Bezzo, ”_Meta-Learning-based Proactive Online Planning for UAVs under Degraded Conditions_”, (*equal contribution), Robotics and Automation Letters (RA-L), 2022 [PDF](https://ieeexplore.ieee.org/document/9832491 "RAL'22")
 * **E. Yel**, T. Carpenter, C. di Franco, R. Ivanov, Y. Kantaros, I. Lee, J. Weimer, N. Bezzo, ”_Assured Run-time Monitoring and Planning: Towards Verification of Deep Neural Networks for Safe Autonomous Operations_” Robotics and Automation Magazine, Special Issue on Deep Learning and Machine Learning in Robotics, 2020 [PDF](https://ieeexplore.ieee.org/document/9068251 "RAM'20")
 * **E. Yel**, Tony X. Lin, N. Bezzo, ”_Computation-Aware Adaptive Planning and Scheduling for Safe Unmanned Airborne Operations_” Journal
 of Intelligent and Robotic Systems, 2020 [PDF](https://link.springer.com/epdf/10.1007/s10846-020-01192-2?sharing_token=qFtm8fdhrw7rGoxGSkag9Pe4RwlQNchNByi7wbcMAY7a0qUIrsI7Gsc1PxE0C73W76eRLdTfLaDkqH1k2r_lFJDR2pmTLZvq7Px2rnuCcKWhnHiTmHhqX_j3X_xVtcUXJzzrkbBCBQCbOpqqYUGu44c7CmLWpuWDkN5dZ2i4Jfk%3D "JINT'20")
@@ -18,11 +18,10 @@ of Intelligent and Robotic Systems, 2020 [PDF](https://link.springer.com/epdf/10
 
 Conference Publications
 ===
-* M. Toyungyernsub, **E. Yel**, J.Li, M. Kochenderfer, "_Dynamics-Aware Spatiotemporal Occupancy Prediction in Urban Environments_", IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS) 2022 (accepted)
-* M. Cleaveland, **E. Yel**, Y. Kantaros, I. Lee, N. Bezzo, "_Learning Enabled Fast Planning and Control in Dynamic Environments with Intermittent Information_", IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS) 2022 (accepted)
+* M. Toyungyernsub, **E. Yel**, J.Li, M. Kochenderfer, "_Dynamics-Aware Spatiotemporal Occupancy Prediction in Urban Environments_", IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS) 2022 [PDF](https://arxiv.org/pdf/2209.13172.pdf "IROS'22") 
+* M. Cleaveland, **E. Yel**, Y. Kantaros, I. Lee, N. Bezzo, "_Learning Enabled Fast Planning and Control in Dynamic Environments with Intermittent Information_", IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS) 2022 [PDF](https://arxiv.org/pdf/2209.04534.pdf "IROS'22")   
 * L. Kruse, **E. Yel**, R. Senanayake, M. Kochenderfer, "_Uncertainty-Aware Online Merge Planning with Learned Driver Behavior_", IEEE International Conference on Intelligent Transportation Systems (ITSC), 2022 (accepted) [PDF](https://arxiv.org/pdf/2207.05228.pdf "IROS'22")
 * **E. Yel**, N. Bezzo, ”_A Meta-Learning-based Trajectory Tracking Framework for UAVs under Degraded Conditions_” IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS) 2021 [PDF](https://arxiv.org/abs/2104.15081 "IROS'21")
-
 * **E. Yel**, N. Bezzo, ”_GP-based Runtime Planning, Learning, and Recovery for Safe UAV Operations under Unforeseen Disturbances_” IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS) 2020 [PDF](https://ieeexplore.ieee.org/document/9341641 "IROS'20")
 * **E. Yel** and N. Bezzo, "_Fast Run-time Monitoring, Replanning, and Recovery for Safe Autonomous System Operations_” 2019 IEEE/RSJ
 International Conference on Intelligent Robots and Systems (IROS), Macau, China, pp. 1661-1667.  [PDF](https://ieeexplore.ieee.org/document/8968498 "IROS'19")
