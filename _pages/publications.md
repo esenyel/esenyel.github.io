@@ -33,8 +33,9 @@ Dissertation
 ===
 * **E. Yel**, ”_Online Predictive Monitoring and Proactive Planning for Safe Autonomous Robot Operations_”, University of Virginia, August 2021, [PDF](https://libraetd.lib.virginia.edu/public_view/9s161713h, "Dissertation")
 
-Workshop and Symposium Publications
+Other Papers
 ===
+* G. Glaubit, K. Kleeman, N. Law, J. Thomas, S. Gao, R. Peddi, **E. Yel**, N. Bezzo ”_Fast, Safe, and Proactive Runtime Planning and Control of Autonomous Ground Vehicles in Changing Environments_”, IEEE Systems and Information Engineering Design Symposium (SIEDS), 2021
 * **E. Yel** and N. Bezzo, ”_Reachability-based Adaptive UAV Scheduling and Planning in Cluttered and Dynamic Environments_” ICRA Work-
 shop on Informative Path Planning and Adaptive Sampling, Brisbane, 2018
 * **E. Yel**, T. X. Lin and N. Bezzo, ”_Reachability-based Self-triggered UAV Motion Planning_,” International Symposium on Aerial Robotics, Philadelphia, PA, 2017
