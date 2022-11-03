@@ -35,7 +35,7 @@ Dissertation
 
 Other Papers
 ===
-* G. Glaubit, K. Kleeman, N. Law, J. Thomas, S. Gao, R. Peddi, **E. Yel**, N. Bezzo ”_Fast, Safe, and Proactive Runtime Planning and Control of Autonomous Ground Vehicles in Changing Environments_”, IEEE Systems and Information Engineering Design Symposium (SIEDS), 2021
+* G. Glaubit, K. Kleeman, N. Law, J. Thomas, S. Gao, R. Peddi, **E. Yel**, N. Bezzo ”_Fast, Safe, and Proactive Runtime Planning and Control of Autonomous Ground Vehicles in Changing Environments_”, IEEE Systems and Information Engineering Design Symposium (SIEDS), 2021 [PDF]( https://ieeexplore.ieee.org/abstract/document/9483719 "SIEDS'21") 
 * **E. Yel** and N. Bezzo, ”_Reachability-based Adaptive UAV Scheduling and Planning in Cluttered and Dynamic Environments_” ICRA Work-
 shop on Informative Path Planning and Adaptive Sampling, Brisbane, 2018
 * **E. Yel**, T. X. Lin and N. Bezzo, ”_Reachability-based Self-triggered UAV Motion Planning_,” International Symposium on Aerial Robotics, Philadelphia, PA, 2017
