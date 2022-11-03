@@ -10,7 +10,7 @@ Most of the publications can be also found on my Google Scholar profile: [Google
 
 Preprints
 ===
-N. Rober, S. M. Katz, C. Sidrane, **E. Yel**, M. Everett, M. J. Kochenderfer, and J. P. How. “Backward reachability analysis of neural feedback loops: Techniques for linear and nonlinear systems”, 2022 [PDF](https://arxiv.org/abs/2209.14076 "Backreach")
+* N. Rober, S. M. Katz, C. Sidrane, **E. Yel**, M. Everett, M. J. Kochenderfer, and J. P. How. “Backward reachability analysis of neural feedback loops: Techniques for linear and nonlinear systems”, 2022 [PDF](https://arxiv.org/abs/2209.14076 "Backreach")
 
 
 Journal Publications
