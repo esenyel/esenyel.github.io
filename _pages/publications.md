@@ -39,10 +39,10 @@ Workshop Papers (Refereed)
 * **E. Yel** and N. Bezzo, ”_Reachability-based Adaptive UAV Scheduling and Planning in Cluttered and Dynamic Environments_” ICRA Workshop on Informative Path Planning and Adaptive Sampling, Brisbane, 2018 [Webpage](https://robotics.usc.edu/~wippas/index.html "WIPPAS'18")  
 * **E. Yel** and H.I. Bozma, ”_Verifying the Recognized Place Through Localization_, ” IROS Workshop on Introspective Methods for Reliable Autonomy, Vancouver 2017
 
-Other Papers
+Other Papers (Not Peer-reviewed)
 ===
 * G. Glaubit, K. Kleeman, N. Law, J. Thomas, S. Gao, R. Peddi, **E. Yel**, N. Bezzo ”_Fast, Safe, and Proactive Runtime Planning and Control of Autonomous Ground Vehicles in Changing Environments_”, IEEE Systems and Information Engineering Design Symposium (SIEDS), 2021 [PDF]( https://ieeexplore.ieee.org/abstract/document/9483719 "SIEDS'21") 
-* **E. Yel**, T. X. Lin and N. Bezzo, ”_Reachability-based Self-triggered UAV Motion Planning_,” International Symposium on Aerial Robotics, Philadelphia, PA, 2017  [Webpage](https://sites.google.com/a/seas.upenn.edu/aerialrobotics/home "ISAR'17")  
+* **E. Yel**, T. X. Lin and N. Bezzo, ”_Reachability-based Self-triggered UAV Motion Planning_” (2-page extended abstract), International Symposium on Aerial Robotics, Philadelphia, PA, 2017  [Webpage](https://sites.google.com/a/seas.upenn.edu/aerialrobotics/home "ISAR'17")  
 
 Dissertation
 ===
