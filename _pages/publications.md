@@ -46,7 +46,7 @@ Other Papers (Not Peer-reviewed)
 
 Dissertation
 ===
-* **E. Yel**, ”_Online Predictive Monitoring and Proactive Planning for Safe Autonomous Robot Operations_”, University of Virginia, August 2021, [PDF](https://libraetd.lib.virginia.edu/public_view/9s161713h, "Dissertation")
+* **E. Yel**, ”_Online Predictive Monitoring and Proactive Planning for Safe Autonomous Robot Operations_”, University of Virginia, August 2021, [PDF](https://libraetd.lib.virginia.edu/public_view/9s161713h "Dissertation")
 
 
 
