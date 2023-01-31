@@ -12,7 +12,7 @@ My research focuses on developing techniques to guarantee the safety of autonomo
 Meta-learning-based Trajectory Tracking under Unforeseen Faults
 ====
 
-<img src="../images/iros2021-intro.svg"
+<img src="../images/iros2021-intro.png"
      alt="Trajectory adaptation"
      caption="© 2021 IEEE"
      width="400" 
