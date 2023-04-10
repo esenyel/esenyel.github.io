@@ -11,6 +11,8 @@ redirect_from:
 
 I am a postdoctoral scholar in the [Aeronautics and Astronautics Department](https://aa.stanford.edu/ "Aero&Astro") at Stanford University, advised by Professor [Mykel Kochenderfer](https://mykel.kochenderfer.com/ "Mykel Kochenderfer") in the [Stanford Intelligent Systems Lab](https://web.stanford.edu/group/sisl/cgi-bin/wordpress/ "SISL") (SISL). I am also affiliated with the [Stanford Center for AI Safety](https://aisafety.stanford.edu/). I receieved my Ph.D. degree in Systems Engineering at the University of Virginia, where I was part of [Autonomous Mobile Robots Lab](https://www.bezzorobotics.com/, "Autonomous Mobile Robots Lab") and [Link Lab](https://engineering.virginia.edu/link-lab, "Link Lab") under the supervision of Prof. Nicola Bezzo. I received my MS and BS degrees from the [Department of  Electrical and Electronics Engineering at Bogazici University, Istanbul](https://ee.boun.edu.tr/, "Bogazici EE") in 2016 and 2014 respectively. 
 
+I will be joining Rensselaer Polytechnic Institute (RPI) Electrical, Computer, and Systems Engineering (ECSE) department as an assistant professor in January 2024.
+
 My research focuses on developing techniques to improve the **safety** of autonomous systems operating under uncertainties. I leverage **reachability analysis** tools, **machine learning** and **runtime monitoring and recovery** techniques to provide safe decisions while adapting to the unforeseen changes.
 
 In my free time, I enjoy hiking, yoga, collecting vintage photographs, watching independent movies, and  traveling.
@@ -18,9 +20,8 @@ In my free time, I enjoy hiking, yoga, collecting vintage photographs, watching 
 
 Recent News
 ===
-* I will be joining Rensselaer Polytechnic Institute (RPI) Electrical, Computer, and Systems Engineering (ECSE) department as an assistant professor in January 2024!
-
 * April 2023, Our paper [Backward Reachability Analysis of Neural Feedback Loops: Techniques for Linear and Nonlinear Systems](https://ieeexplore.ieee.org/document/10097878) is accepted to IEEE Open Journal of Control Systems.
+
 * August 2022, I'm selected for [EECS Rising Stars Workshop](https://risingstars.utexas.edu/ "Workshop Website") at UT Austin!
 
 * July 2022, Our papers "Dynamics-Aware Spatiotemporal Occupancy Prediction in Urban Environments" and "Learning Enabled Fast Planning and Control in Dynamic Environments with Intermittent Information" are accepted at IROS 2022.
