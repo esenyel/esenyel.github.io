@@ -18,6 +18,9 @@ In my free time, I enjoy hiking, yoga, collecting vintage photographs, watching 
 
 Recent News
 ===
+* I will be joining Rensselaer Polytechnic Institute (RPI) Electrical, Computer, and Systems Engineering (ECSE) department as an assistant professor in January 2024!
+
+* April 2023, Our paper [Backward Reachability Analysis of Neural Feedback Loops: Techniques for Linear and Nonlinear Systems](https://ieeexplore.ieee.org/document/10097878) is accepted to IEEE Open Journal of Control Systems.
 * August 2022, I'm selected for [EECS Rising Stars Workshop](https://risingstars.utexas.edu/ "Workshop Website") at UT Austin!
 
 * July 2022, Our papers "Dynamics-Aware Spatiotemporal Occupancy Prediction in Urban Environments" and "Learning Enabled Fast Planning and Control in Dynamic Environments with Intermittent Information" are accepted at IROS 2022.
@@ -27,8 +30,6 @@ Recent News
 * June 2022, We hosted [Learning for Dynamics and Control (L4DC) Conference](https://l4dc.stanford.edu/)! 
 
 * June 2022, Our paper "Uncertainty-Aware Online Merge Planning with Learned Driver Behavior" is accepted to be presented at ITSC 2022. [Arvix Link](https://arxiv.org/pdf/2207.05228.pdf "Arvix link")
-
-* October 2021, I started working at [Stanford Intelligent Systems Lab](https://web.stanford.edu/group/sisl/cgi-bin/wordpress/ "SISL") as a postdoctoral scholar
 
 
 
