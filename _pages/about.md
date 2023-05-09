@@ -13,7 +13,7 @@ I am a postdoctoral scholar in the [Aeronautics and Astronautics Department](htt
 
 I will be joining Rensselaer Polytechnic Institute (RPI) Electrical, Computer, and Systems Engineering (ECSE) department as an assistant professor in January 2024.
 
-My research focuses on developing techniques to improve the **safety** of autonomous systems operating under uncertainties. I leverage **reachability analysis** tools, **machine learning** and **runtime monitoring and recovery** techniques to provide safe decisions while adapting to the unforeseen changes.
+My research focuses on developing techniques to improve the **safety** of autonomous systems operating under uncertainty. I leverage **reachability analysis** tools, **machine learning** and **runtime monitoring and recovery** techniques to provide safe decisions and to adapt to the unforeseen conditions.
 
 In my free time, I enjoy hiking, yoga, collecting vintage photographs, watching independent movies, and  traveling.
 
