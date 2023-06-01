@@ -20,9 +20,9 @@ In my free time, I enjoy hiking, yoga, collecting vintage photographs, watching 
 
 Recent News
 ===
-* April 2023, Our paper [Experience Filter: Using Past Experiences on Unseen Tasks or Environments](https://arxiv.org/abs/2305.18633) is accepted to IEEE Intelligent Vehicles Symposium (IV)!
-
 * April 2023, Our paper [Backward Reachability Analysis of Neural Feedback Loops: Techniques for Linear and Nonlinear Systems](https://ieeexplore.ieee.org/document/10097878) is accepted to IEEE Open Journal of Control Systems.
+
+* March 2023, Our paper [Experience Filter: Using Past Experiences on Unseen Tasks or Environments](https://arxiv.org/abs/2305.18633) is accepted to IEEE Intelligent Vehicles Symposium (IV)!
 
 * March 2023, I accepted a tenure-track faculty position at Rensselaer Polytechnic Institute (RPI) Electrical, Computer, and Systems Engineering (ECSE) department! I will start in January 2024.
 
