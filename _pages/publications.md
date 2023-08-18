@@ -12,7 +12,6 @@ Most of the publications can be also found on my Google Scholar profile: [Google
 Journal and Magazine Articles (Refereed)
 ===
 * N. Rober, S. M. Katz, C. Sidrane, **E. Yel**, M. Everett, M. J. Kochenderfer, and J. P. How. “_Backward reachability analysis of neural feedback loops: Techniques for linear and nonlinear systems_”, IEEE Open Journal of Control Systems, 2023 (Early Access) [PDF](https://ieeexplore.ieee.org/document/10097878 "Backreach")
-
 * **E. Yel***, Shijie Gao*, N. Bezzo, ”_Meta-Learning-based Proactive Online Planning for UAVs under Degraded Conditions_”, (*equal contribution), Robotics and Automation Letters (RA-L), 2022 [PDF](https://ieeexplore.ieee.org/document/9832491 "RAL'22")
 * **E. Yel**, T. Carpenter, C. di Franco, R. Ivanov, Y. Kantaros, I. Lee, J. Weimer, N. Bezzo, ”_Assured Run-time Monitoring and Planning: Towards Verification of Deep Neural Networks for Safe Autonomous Operations_”, Robotics and Automation Magazine, Special Issue on Deep Learning and Machine Learning in Robotics, 2020 [PDF](https://ieeexplore.ieee.org/document/9068251 "RAM'20")
 * **E. Yel**, Tony X. Lin, N. Bezzo, ”_Computation-Aware Adaptive Planning and Scheduling for Safe Unmanned Airborne Operations_” Journal
@@ -21,6 +20,7 @@ of Intelligent and Robotic Systems, 2020 [PDF](https://link.springer.com/epdf/10
 
 Conference Papers (Refereed)
 ===
+* A. Yildiz,  **E. Yel**, A. Corso, K. Wray, S. Witwicki and M. Kochenderfer, "_Experience filter: Transferring past experiences to unseen  tasks or environments_", IEEE Intelligent Vehicles Symposium (IV) 2023 [PDF]([https://arxiv.org/pdf/2209.13172.pdf](https://arxiv.org/pdf/2305.18633.pdf) "IV'23")
 * M. Toyungyernsub, **E. Yel**, J.Li, M. Kochenderfer, "_Dynamics-Aware Spatiotemporal Occupancy Prediction in Urban Environments_", IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS) 2022 [PDF](https://arxiv.org/pdf/2209.13172.pdf "IROS'22") 
 * M. Cleaveland, **E. Yel**, Y. Kantaros, I. Lee, N. Bezzo, "_Learning Enabled Fast Planning and Control in Dynamic Environments with Intermittent Information_", IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS) 2022 [PDF](https://arxiv.org/pdf/2209.04534.pdf "IROS'22")   
 * L. Kruse, **E. Yel**, R. Senanayake, M. Kochenderfer, "_Uncertainty-Aware Online Merge Planning with Learned Driver Behavior_", IEEE International Conference on Intelligent Transportation Systems (ITSC), 2022  [PDF](https://arxiv.org/pdf/2207.05228.pdf "ITSC'22")
@@ -40,7 +40,7 @@ Workshop Papers (Refereed)
 Other Papers (Not Peer-reviewed)
 ===
 * G. Glaubit, K. Kleeman, N. Law, J. Thomas, S. Gao, R. Peddi, **E. Yel**, N. Bezzo ”_Fast, Safe, and Proactive Runtime Planning and Control of Autonomous Ground Vehicles in Changing Environments_”, IEEE Systems and Information Engineering Design Symposium (SIEDS), 2021 [PDF]( https://ieeexplore.ieee.org/abstract/document/9483719 "SIEDS'21") 
-* **E. Yel**, T. X. Lin and N. Bezzo, ”_Reachability-based Self-triggered UAV Motion Planning_” (2-page extended abstract), International Symposium on Aerial Robotics, Philadelphia, PA, 2017  [Webpage](https://sites.google.com/a/seas.upenn.edu/aerialrobotics/home "ISAR'17")  
+* **E. Yel**, T. X. Lin and N. Bezzo, ”_Reachability-based Self-triggered UAV Motion Planning_” (2-page abstract), International Symposium on Aerial Robotics, Philadelphia, PA, 2017  [Webpage](https://sites.google.com/a/seas.upenn.edu/aerialrobotics/home "ISAR'17")  
 
 Dissertation
 ===
