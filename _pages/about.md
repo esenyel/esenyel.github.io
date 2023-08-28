@@ -11,7 +11,7 @@ redirect_from:
 
 I am a postdoctoral scholar in the [Aeronautics and Astronautics Department](https://aa.stanford.edu/ "Aero&Astro") at Stanford University, working with Prof. [Mykel Kochenderfer](https://mykel.kochenderfer.com/ "Mykel Kochenderfer") at [Stanford Intelligent Systems Lab](https://web.stanford.edu/group/sisl/cgi-bin/wordpress/ "SISL") (SISL) and [Stanford Center for AI Safety](https://aisafety.stanford.edu/). I receieved my Ph.D. degree in Systems Engineering at the University of Virginia, where I was part of [Autonomous Mobile Robots Lab](https://www.bezzorobotics.com/, "Autonomous Mobile Robots Lab") and [Link Lab](https://engineering.virginia.edu/link-lab, "Link Lab") under the supervision of Prof. Nicola Bezzo. I received my MS and BS degrees from the [Department of  Electrical and Electronics Engineering at Bogazici University, Istanbul](https://ee.boun.edu.tr/, "Bogazici EE") in 2016 and 2014 respectively. 
 
-I will be joining Rensselaer Polytechnic Institute (RPI) Electrical, Computer, and Systems Engineering (ECSE) department as an assistant professor in January 2024.
+**I will be joining Rensselaer Polytechnic Institute (RPI) Electrical, Computer, and Systems Engineering (ECSE) department as an assistant professor in January 2024.**
 
 My research focuses on developing techniques to improve the **safety** of autonomous systems operating under uncertainty. I leverage **reachability analysis** tools, **machine learning** and **runtime monitoring and recovery** techniques to provide safe decisions and to adapt to the unforeseen conditions.
 
