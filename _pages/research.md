@@ -9,6 +9,7 @@ redirect_from:
 Reliable Intelligent Systems Lab (RISL) at Rensselaer Polytechnic Institute (RPI) will research methods for improving the safety, trustworthiness, and generalizability of intelligent systems starting in January 2024. The topics of interest include reachability analysis, decision-making under uncertainty, runtime monitoring, behavior modeling, and transfer learning. The lab's application areas include aerial robotics, mobile robot navigation, and autonomous driving. 
 
 **How to Join**
+
 RISL will hire multiple Ph.D. students for Fall 2024. If you are interested in doing research in the areas below, please consider submitting a Ph.D. application to [ECSE at RPI](https://ecse.rpi.edu/ "ECSE") (Deadline: January 1, 2024). If you have specific questions or research ideas, please reach out to Esen Yel by email (esenyel@stanford.edu) with the subject line "Interested in joining RISL".
 
 
