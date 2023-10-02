@@ -15,7 +15,6 @@ RISL will hire multiple Ph.D. students for Fall 2024. If you are interested in d
 
 Research Areas
 =====
-
 Adaptation to Unforeseen Situations
 -----
 
