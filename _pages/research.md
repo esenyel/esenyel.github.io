@@ -6,11 +6,12 @@ author_profile: true
 redirect_from:
   - /research
 ---
-
-My research focuses on developing techniques to guarantee the safety of autonomous aerial vehicles moving under unforeseen conditions such as disturbances, intermittent sensing, model changes and failures.
+Reliable Intelligent Systems Lab (RISL)
+====
+Reliable Intelligent Systems Lab (RISL) at Rensselaer Polytechnic Institute (RPI) will research methods for improving the safety, trustworthiness, and generalizability of intelligent systems starting in January 2024. The topics of interest include reachability analysis, decision-making under uncertainty, runtime monitoring, behavior modeling, and transfer learning. The lab's application areas include aerial robotics, mobile robot navigation, and autonomous driving. 
 
 Meta-learning-based Trajectory Tracking under Unforeseen Faults
-====
+===
 
 <img src="../images/iros2021-intro.png"
      alt="Trajectory adaptation"
@@ -22,7 +23,7 @@ Meta-learning-based Trajectory Tracking under Unforeseen Faults
 An autonomous robot may experience unforeseen faults during real-world operations which may affect its safety and intended behavior. To deal with this problem, we propose a meta-learning-based approach to improve the trajectory tracking performance of an unmanned aerial vehicle (UAV) under actuator faults which have not been previously experienced. Meta-learning is leveraged to train a model that is easily adaptable at runtime to make accurate predictions about the system’s future state. A runtime monitoring and validation technique is proposed to decide when the system needs to adapt its model by considering a data pruning procedure for efficient learning. Finally, the reference trajectory is adapted based on future predictions by borrowing feedback control logic to make the system track the original and desired path without needing to access the system’s controller. More details, simulation and experimental results can be found in the paper: [IROS'21](https://ieeexplore.ieee.org/document/9635918 "IROS'21").
 
 Runtime Planning, Learning, and Recovery under Unforeseen Disturbances
-====
+===
 
 <img src="../images/payload.png"
      alt="Assured planning"
