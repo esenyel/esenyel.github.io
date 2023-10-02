@@ -25,7 +25,7 @@ Adaptation to Unforeseen Situations
      height="480"
      style="float: right;" />
 
-An autonomous robot may experience unforeseen faults during real-world operations which may affect its safety and intended behavior. To deal with this problem, we propose a meta-learning-based approach to improve the trajectory tracking performance of an unmanned aerial vehicle (UAV) under actuator faults that have not been previously experienced. Meta-learning is leveraged to train a model that is easily adaptable at runtime to make accurate predictions about the system’s future state. A runtime monitoring and validation technique is proposed to decide when the system needs to adapt its model by considering a data pruning procedure for efficient learning. Finally, the reference trajectory is adapted based on future predictions by borrowing feedback control logic to make the system track the original and desired path without needing to access the system’s controller. More details, simulation and experimental results can be found in the paper: [IROS'21](https://ieeexplore.ieee.org/document/9635918 "IROS'21").
+An autonomous robot may experience unforeseen faults during real-world operations which may affect its safety and intended behavior. To deal with this problem, we propose a meta-learning-based approach to improve the trajectory tracking performance of an unmanned aerial vehicle (UAV) under actuator faults that have not been previously experienced. Meta-learning is leveraged to train a model that is easily adaptable at runtime to make accurate predictions about the system’s future state. A runtime monitoring and validation technique is proposed to decide when the system needs to adapt its model by considering a data pruning procedure for efficient learning. Finally, the reference trajectory is adapted based on future predictions by borrowing feedback control logic to make the system track the original and desired path without needing to access the system’s controller. 
 
 **Relevant Publications:**
 * A. Yildiz,  **E. Yel**, A. Corso, K. Wray, S. Witwicki and M. Kochenderfer, "_Experience filter: Transferring past experiences to unseen  tasks or environments_", IEEE Intelligent Vehicles Symposium (IV) 2023 [PDF]([https://arxiv.org/pdf/2209.13172.pdf](https://arxiv.org/pdf/2305.18633.pdf) "IV'23")
@@ -79,11 +79,15 @@ Reachability-based Self/Event-triggered Scheduling and Replanning
      height="480"
      style="float: right; margin-left: 2px" />
 
-High-frequency  periodic sensor measurements are usually expected for a traditional system to safely navigate in environments occupied with obstacles. However, monitoring the sensors and processing the sensor measurements at high-frequency are computationally consuming, and often not necessary especially when the vehicle is operating in obstacle-free environments.
-
-To minimize the computation associated with the sensor monitoring while guaranteeing safety, reachability analysis is leveraged to capture the future states of a UAV operating
+High-frequency  periodic sensor measurements are usually expected for a traditional system to safely navigate in environments occupied with obstacles. However, monitoring the sensors and processing the sensor measurements at high-frequency are computationally consuming, and often not necessary especially when the vehicle is operating in obstacle-free environments. To minimize the computation associated with the sensor monitoring while guaranteeing safety, reachability analysis is leveraged to capture the future states of a UAV operating
 under the effects of noise and disturbances in both static and dynamic environments under external disturbances and noises. 
-Self-triggered scheduling is then utilized to compute when the system needs to perform sensor monitoring. More details about the approach and the simulation and experiment results can be found in our papers: [AHS'17](https://ieeexplore.ieee.org/document/8046382 "AHS'17") [ICRA'18](https://ieeexplore.ieee.org/document/8463205 "ICRA'18") [JINT'20](https://link.springer.com/epdf/10.1007/s10846-020-01192-2?sharing_token=qFtm8fdhrw7rGoxGSkag9Pe4RwlQNchNByi7wbcMAY7a0qUIrsI7Gsc1PxE0C73W76eRLdTfLaDkqH1k2r_lFJDR2pmTLZvq7Px2rnuCcKWhnHiTmHhqX_j3X_xVtcUXJzzrkbBCBQCbOpqqYUGu44c7CmLWpuWDkN5dZ2i4Jfk%3D "JINT '20")
+Self-triggered scheduling is then utilized to compute when the system needs to perform sensor monitoring. 
+
+**Relevant Publications**
+* **E. Yel**, Tony X. Lin, N. Bezzo, ”_Computation-Aware Adaptive Planning and Scheduling for Safe Unmanned Airborne Operations_” Journal
+of Intelligent and Robotic Systems, 2020 [PDF](https://link.springer.com/epdf/10.1007/s10846-020-01192-2?sharing_token=qFtm8fdhrw7rGoxGSkag9Pe4RwlQNchNByi7wbcMAY7a0qUIrsI7Gsc1PxE0C73W76eRLdTfLaDkqH1k2r_lFJDR2pmTLZvq7Px2rnuCcKWhnHiTmHhqX_j3X_xVtcUXJzzrkbBCBQCbOpqqYUGu44c7CmLWpuWDkN5dZ2i4Jfk%3D "JINT'20")
+* **E. Yel**, T. X. Lin and N. Bezzo, ”_Self-triggered Adaptive Planning and Scheduling of UAV Operations_,” IEEE International Conference on Robotics and Automation (ICRA), Brisbane, 2018 [PDF](https://ieeexplore.ieee.org/document/8463205 "ICRA'18")
+* **E. Yel**, T. X. Lin and N. Bezzo, ”_Reachability-based self-triggered scheduling and replanning of UAV operations_,” NASA/ESA Conference on Adaptive Hardware and Systems (AHS), Pasadena, CA, 2017, pp. 221-228. [PDF](https://ieeexplore.ieee.org/document/8046382 "AHS'17") 
 
 
 
