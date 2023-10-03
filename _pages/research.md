@@ -22,9 +22,17 @@ Adaptation to Unforeseen Situations
 <img src="../images/iros2021-intro.png"
      alt="Trajectory adaptation"
      caption="© 2021 IEEE"
-     width="200" 
-     height="240"
+     width="300" 
+     height="360"
      style="float: right;" />
+
+   <img src="../images/av-transfer.png"
+   alt="AV transfer"
+   caption=""
+   width="500" 
+   height="190"
+   style="float: right;" />
+
 
 Autonomous systems may need to operate under different conditions than they have been designed for (e.g., unforeseen faults, different environment settings, etc.). To deal with this problem, the systems need to be able to adapt their models to new situations without the need for large amounts of data. Our body work has focused on leveraging meta-learning and Bayesian techniques to provide adaptation to unforeseen conditions.
 
