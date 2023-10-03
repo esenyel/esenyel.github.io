@@ -22,11 +22,11 @@ Adaptation to Unforeseen Situations
 <img src="../images/iros2021-intro.png"
      alt="Trajectory adaptation"
      caption="© 2021 IEEE"
-     width="400" 
-     height="480"
+     width="200" 
+     height="240"
      style="float: right;" />
 
-An autonomous robot may experience unforeseen faults during real-world operations which may affect its safety and intended behavior. To deal with this problem, we propose a meta-learning-based approach to improve the trajectory tracking performance of an unmanned aerial vehicle (UAV) under actuator faults that have not been previously experienced. Meta-learning is leveraged to train a model that is easily adaptable at runtime to make accurate predictions about the system’s future state. A runtime monitoring and validation technique is proposed to decide when the system needs to adapt its model by considering a data pruning procedure for efficient learning. Finally, the reference trajectory is adapted based on future predictions by borrowing feedback control logic to make the system track the original and desired path without needing to access the system’s controller. 
+Autonomous systems may need to operate under different conditions than they have been designed for (e.g., unforeseen faults, different environment settings, etc.). To deal with this problem, the systems need to be able to adapt their models to new situations without the need for large amounts of data. Our body work has focused on leveraging meta-learning and Bayesian techniques to provide adaptation to unforeseen conditions.
 
 **Relevant Publications:**
 * A. Yildiz,  **E. Yel**, A. Corso, K. Wray, S. Witwicki and M. Kochenderfer, "_Experience filter: Transferring past experiences to unseen  tasks or environments_", IEEE Intelligent Vehicles Symposium (IV) 2023 [PDF]([https://arxiv.org/pdf/2209.13172.pdf](https://arxiv.org/pdf/2305.18633.pdf) "IV'23")
