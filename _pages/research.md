@@ -26,7 +26,7 @@ Adaptation to Unforeseen Situations
      height="360"
      style="float: right;" />
 
-   <img src="../images/av-transfer.png"
+   <img src="../images/av_transfer.png"
    alt="AV transfer"
    caption=""
    width="500" 
