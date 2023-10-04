@@ -51,6 +51,7 @@ Assured Autonomy
      style="float: right; margin-left: 2px" />
 
 Autonomous systems can be subject to uncertainties due to external disturbances or due to the use of internal learning-based components. Since these systems are mainly used in safety-critical settings, it is important to assess the safety of the system before and during its deployment. Our research uses reachability analysis and neural network verification techniques to provide safety-critical autonomous systems with such capabilities.
+
 **Relevant Publications:**
 * N. Rober, S. M. Katz, C. Sidrane, **E. Yel**, M. Everett, M. J. Kochenderfer, and J. P. How. “_Backward reachability analysis of neural feedback loops: Techniques for linear and nonlinear systems_”, IEEE Open Journal of Control Systems, 2023 (Early Access) [PDF](https://ieeexplore.ieee.org/document/10097878 "Backreach")
 * **E. Yel**, T. Carpenter, C. di Franco, R. Ivanov, Y. Kantaros, I. Lee, J. Weimer, N. Bezzo, ”_Assured Run-time Monitoring and Planning: Towards Verification of Deep Neural Networks for Safe Autonomous Operations_”, Robotics and Automation Magazine, Special Issue on Deep Learning and Machine Learning in Robotics, 2020 [PDF](https://ieeexplore.ieee.org/document/9068251 "RAM'20")
@@ -62,13 +63,13 @@ Predictive Autonomy
      width="408" 
      height="266"
      style="float: right;" />
- For safe navigation and planning, it is important for autonomous systems to accurately predict how other agents in their environments are going to move over time. Our research uses various machine-learning techniques ranging from Gaussian Processes to deep neural networks to enable systems to predict the future states of their environment so that they can proactively plan safe trajectories. 
+For safe navigation and planning, it is important for autonomous systems to accurately predict how other agents in their environments are going to move over time. Our research uses various machine-learning techniques ranging from Gaussian Processes to deep neural networks to enable systems to predict the future states of their environment so that they can proactively plan safe trajectories. These techniques have been applied in various different application areas such as  aerial robotics, autonomous driving and underwater robotics.
 
 **Relevant Publications**
 * M. Toyungyernsub, **E. Yel**, J.Li, M. Kochenderfer, "_Dynamics-Aware Spatiotemporal Occupancy Prediction in Urban Environments_", IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS) 2022 [PDF](https://arxiv.org/pdf/2209.13172.pdf "IROS'22") 
 * M. Cleaveland, **E. Yel**, Y. Kantaros, I. Lee, N. Bezzo, "_Learning Enabled Fast Planning and Control in Dynamic Environments with Intermittent Information_", IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS) 2022 [PDF](https://arxiv.org/pdf/2209.04534.pdf "IROS'22")   
 * L. Kruse, **E. Yel**, R. Senanayake, M. Kochenderfer, "_Uncertainty-Aware Online Merge Planning with Learned Driver Behavior_", IEEE International Conference on Intelligent Transportation Systems (ITSC), 2022  [PDF](https://arxiv.org/pdf/2207.05228.pdf "ITSC'22")
-* * **E. Yel** and N. Bezzo, "_Fast Run-time Monitoring, Replanning, and Recovery for Safe Autonomous System Operations_” 2019 IEEE/RSJ
+* **E. Yel** and N. Bezzo, "_Fast Run-time Monitoring, Replanning, and Recovery for Safe Autonomous System Operations_” 2019 IEEE/RSJ
 International Conference on Intelligent Robots and Systems (IROS), Macau, China, pp. 1661-1667.  [PDF](https://ieeexplore.ieee.org/document/8968498 "IROS'19")
 
 
