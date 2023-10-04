@@ -46,8 +46,8 @@ Assured Autonomy
 -----
 <img src="../images/assured_planning.png"
      alt="Assured planning"
-     width="400" 
-     height="480"
+     width="300" 
+     height="360"
      style="float: right; margin-left: 2px" />
 
 Autonomous systems can be subject to uncertainties due to external disturbances or due to the use of internal learning-based components. Since these systems are mainly used in safety-critical settings, it is important to assess the safety of the system before and during its deployment. Our research uses reachability analysis and neural network verification techniques to provide safety-critical autonomous systems with such capabilities.
@@ -60,8 +60,8 @@ Predictive Autonomy
 -----
 <img src="../images/av_scenario.png"
      alt="Assured planning"
-     width="326" 
-     height="212"
+     width="408" 
+     height="266"
      style="float: right;" />
 For safe navigation and planning, it is important for autonomous systems to accurately predict how other agents in their environments are going to move over time. Our research uses various machine-learning techniques ranging from Gaussian Processes to deep neural networks to enable systems to predict the future states of their environment so that they can proactively plan safe trajectories. These techniques have been applied in various application areas such as  aerial robotics, autonomous driving, and underwater robotics.
 
