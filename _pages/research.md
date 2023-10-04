@@ -34,10 +34,10 @@ Adaptation to Unforeseen Situations
    style="float: right;" />
 
 
-Autonomous systems may need to operate under different conditions than they have been designed for (e.g., unforeseen faults, different environment settings, etc.). To deal with this problem, the systems need to be able to adapt their models to new situations without the need for large amounts of data. Our body work has focused on leveraging meta-learning and Bayesian techniques to provide adaptation to unforeseen conditions.
+Autonomous systems may need to operate under different conditions than they have been designed for (e.g., unforeseen faults, different environment settings, etc.). To deal with this problem, the systems need to be able to adapt their models to new situations without the need for large amounts of data. Our work has focused on leveraging meta-learning and Bayesian techniques to provide adaptation to unforeseen conditions.
 
 **Relevant Publications:**
-* A. Yildiz,  **E. Yel**, A. Corso, K. Wray, S. Witwicki and M. Kochenderfer, "_Experience filter: Transferring past experiences to unseen  tasks or environments_", IEEE Intelligent Vehicles Symposium (IV) 2023 [PDF](https://arxiv.org/pdf/2305.18633.pdf) "IV'23")
+* A. Yildiz,  **E. Yel**, A. Corso, K. Wray, S. Witwicki and M. Kochenderfer, "_Experience filter: Transferring past experiences to unseen  tasks or environments_", IEEE Intelligent Vehicles Symposium (IV) 2023 [PDF](https://arxiv.org/pdf/2305.18633.pdf "IV'23")
 * **E. Yel***, Shijie Gao*, N. Bezzo, ”_Meta-Learning-based Proactive Online Planning for UAVs under Degraded Conditions_”, (*equal contribution), Robotics and Automation Letters (RA-L), 2022 [PDF](https://ieeexplore.ieee.org/document/9832491 "RAL'22")
 * **E. Yel**, N. Bezzo, ”_A Meta-Learning-based Trajectory Tracking Framework for UAVs under Degraded Conditions_” IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS) 2021 [PDF](https://arxiv.org/abs/2104.15081 "IROS'21")
 * **E. Yel**, N. Bezzo, ”_GP-based Runtime Planning, Learning, and Recovery for Safe UAV Operations under Unforeseen Disturbances_” IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS) 2020 [PDF](https://ieeexplore.ieee.org/document/9341641 "IROS'20")
@@ -63,7 +63,7 @@ Predictive Autonomy
      width="326" 
      height="212"
      style="float: right;" />
-For safe navigation and planning, it is important for autonomous systems to accurately predict how other agents in their environments are going to move over time. Our research uses various machine-learning techniques ranging from Gaussian Processes to deep neural networks to enable systems to predict the future states of their environment so that they can proactively plan safe trajectories. These techniques have been applied in various different application areas such as  aerial robotics, autonomous driving and underwater robotics.
+For safe navigation and planning, it is important for autonomous systems to accurately predict how other agents in their environments are going to move over time. Our research uses various machine-learning techniques ranging from Gaussian Processes to deep neural networks to enable systems to predict the future states of their environment so that they can proactively plan safe trajectories. These techniques have been applied in various application areas such as  aerial robotics, autonomous driving, and underwater robotics.
 
 **Relevant Publications**
 * M. Toyungyernsub, **E. Yel**, J.Li, M. Kochenderfer, "_Dynamics-Aware Spatiotemporal Occupancy Prediction in Urban Environments_", IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS) 2022 [PDF](https://arxiv.org/pdf/2209.13172.pdf "IROS'22") 
@@ -82,9 +82,7 @@ Reachability-based Self/Event-triggered Scheduling and Replanning
      height="480"
      style="float: right; margin-left: 2px" />
 
-High-frequency  periodic sensor measurements are usually expected for a traditional system to safely navigate in environments occupied with obstacles. However, monitoring the sensors and processing the sensor measurements at high-frequency are computationally consuming, and often not necessary especially when the vehicle is operating in obstacle-free environments. To minimize the computation associated with the sensor monitoring while guaranteeing safety, reachability analysis is leveraged to capture the future states of a UAV operating
-under the effects of noise and disturbances in both static and dynamic environments under external disturbances and noises. 
-Self-triggered scheduling is then utilized to compute when the system needs to perform sensor monitoring. 
+High-frequency  periodic sensor measurements are usually expected for a traditional system to safely navigate in environments occupied with obstacles. However, monitoring the sensors and processing the sensor measurements at high frequency are computationally consuming, and often not necessary especially when the vehicle is operating in obstacle-free environments. Our work uses reachability analysis together with self-triggered scheduling to minimize the computation associated with sensor monitoring while guaranteeing safety.
 
 **Relevant Publications**
 * **E. Yel**, Tony X. Lin, N. Bezzo, ”_Computation-Aware Adaptive Planning and Scheduling for Safe Unmanned Airborne Operations_” Journal
