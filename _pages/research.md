@@ -60,8 +60,8 @@ Predictive Autonomy
 -----
 <img src="../images/av_scenario.png"
      alt="Assured planning"
-     width="408" 
-     height="266"
+     width="326" 
+     height="212"
      style="float: right;" />
 For safe navigation and planning, it is important for autonomous systems to accurately predict how other agents in their environments are going to move over time. Our research uses various machine-learning techniques ranging from Gaussian Processes to deep neural networks to enable systems to predict the future states of their environment so that they can proactively plan safe trajectories. These techniques have been applied in various different application areas such as  aerial robotics, autonomous driving and underwater robotics.
 
