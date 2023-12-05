@@ -20,7 +20,7 @@ of Intelligent and Robotic Systems, 2020 [PDF](https://link.springer.com/epdf/10
 
 Conference Papers (Refereed)
 ===
-* S. Katz, A. Corso, **E. Yel**, and M. Kochenderfer, "_Efficient Determination of Safety Requirements for Perception Systems_", AIAA/IEEE Digital Avionics Systems Conference (DASC), 2023 (to appear) [PDF](https://arxiv.org/pdf/2307.01371.pdf "DASC'23")
+* S. Katz, A. Corso, **E. Yel**, and M. Kochenderfer, "_Efficient Determination of Safety Requirements for Perception Systems_", AIAA/IEEE Digital Avionics Systems Conference (DASC), 2023 [PDF](https://arxiv.org/pdf/2307.01371.pdf "DASC'23")
 * A. Yildiz,  **E. Yel**, A. Corso, K. Wray, S. Witwicki and M. Kochenderfer, "_Experience filter: Transferring past experiences to unseen  tasks or environments_", IEEE Intelligent Vehicles Symposium (IV) 2023 [PDF](https://arxiv.org/pdf/2305.18633.pdf "IV'23")
 * M. Toyungyernsub, **E. Yel**, J.Li, M. Kochenderfer, "_Dynamics-Aware Spatiotemporal Occupancy Prediction in Urban Environments_", IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS) 2022 [PDF](https://arxiv.org/pdf/2209.13172.pdf "IROS'22") 
 * M. Cleaveland, **E. Yel**, Y. Kantaros, I. Lee, N. Bezzo, "_Learning Enabled Fast Planning and Control in Dynamic Environments with Intermittent Information_", IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS) 2022 [PDF](https://arxiv.org/pdf/2209.04534.pdf "IROS'22")   
