@@ -9,9 +9,9 @@ redirect_from:
   - //
 ---
 
-I am a postdoctoral scholar in the [Aeronautics and Astronautics Department](https://aa.stanford.edu/ "Aero&Astro") at Stanford University, working with Prof. [Mykel Kochenderfer](https://mykel.kochenderfer.com/ "Mykel Kochenderfer") at [Stanford Intelligent Systems Lab](https://web.stanford.edu/group/sisl/cgi-bin/wordpress/ "SISL") (SISL) and [Stanford Center for AI Safety](https://aisafety.stanford.edu/). I receieved my Ph.D. degree in Systems Engineering at the University of Virginia, where I was part of [Autonomous Mobile Robots Lab](https://www.bezzorobotics.com/, "Autonomous Mobile Robots Lab") and [Link Lab](https://engineering.virginia.edu/link-lab, "Link Lab") under the supervision of Prof. Nicola Bezzo. I received my MS and BS degrees from the [Department of  Electrical and Electronics Engineering at Bogazici University, Istanbul](https://ee.boun.edu.tr/, "Bogazici EE") in 2016 and 2014 respectively. 
+I am an incoming assistant professor at Rensselaer Polytechnic Institute (RPI) Electrical, Computer, and Systems Engineering (ECSE) department (starting in January 2024). Before this, I was a postdoctoral scholar in the [Aeronautics and Astronautics Department](https://aa.stanford.edu/ "Aero&Astro") at Stanford University, working with Prof. [Mykel Kochenderfer](https://mykel.kochenderfer.com/ "Mykel Kochenderfer") at [Stanford Intelligent Systems Lab](https://web.stanford.edu/group/sisl/cgi-bin/wordpress/ "SISL") (SISL) and [Stanford Center for AI Safety](https://aisafety.stanford.edu/). I received my Ph.D. degree in Systems Engineering at the University of Virginia, where I was part of [Autonomous Mobile Robots Lab](https://www.bezzorobotics.com/, "Autonomous Mobile Robots Lab") and [Link Lab](https://engineering.virginia.edu/link-lab, "Link Lab") under the supervision of Prof. Nicola Bezzo. I received my MS and BS degrees from the [Department of  Electrical and Electronics Engineering at Bogazici University, Istanbul](https://ee.boun.edu.tr/, "Bogazici EE") in 2016 and 2014 respectively. 
 
-**I will be joining Rensselaer Polytechnic Institute (RPI) Electrical, Computer, and Systems Engineering (ECSE) department as an assistant professor in January 2024.** At RPI, I will be the director of **Reliable Intelligent Systems Laboratory (RISL)** (website coming soon). If you're interested in learning more about this lab, please take a look at the [Research](https://esenyel.github.io//research/ "Research") page.
+**At RPI, I will be the director of Reliable Intelligent Systems Laboratory (RISL) (website coming soon). If you're interested in learning more about this lab, please take a look at the [Research](https://esenyel.github.io//research/ "Research") page.**
 
 My research focuses on developing techniques to improve the **safety** of autonomous systems operating under uncertainty. I leverage **reachability analysis** tools, **machine learning**, and **runtime monitoring and recovery** techniques to provide safe decisions and to adapt to unforeseen conditions.
 
@@ -22,7 +22,7 @@ Recent News
 ===
 * April 2023, Our paper [Backward Reachability Analysis of Neural Feedback Loops: Techniques for Linear and Nonlinear Systems](https://ieeexplore.ieee.org/document/10097878) is accepted to IEEE Open Journal of Control Systems.
 
-* March 2023, Our paper [Experience Filter: Using Past Experiences on Unseen Tasks or Environments](https://arxiv.org/abs/2305.18633) is accepted to IEEE Intelligent Vehicles Symposium (IV)!
+* March 2023, Our paper [Experience Filter: Using Past Experiences on Unseen Tasks or Environments](https://arxiv.org/abs/2305.18633) is accepted to the IEEE Intelligent Vehicles Symposium (IV)!
 
 * March 2023, I accepted a tenure-track faculty position at Rensselaer Polytechnic Institute (RPI) Electrical, Computer, and Systems Engineering (ECSE) department! I will start in January 2024.
 
@@ -30,7 +30,7 @@ Recent News
 
 * July 2022, Our papers "Dynamics-Aware Spatiotemporal Occupancy Prediction in Urban Environments" and "Learning Enabled Fast Planning and Control in Dynamic Environments with Intermittent Information" are accepted at IROS 2022.
 
-* June 2022, Our paper "Meta-Learning-based Proactive Online Planning for UAVs under Degraded Conditions" is accepted to RA-L (with presentation at IROS 2022)!
+* June 2022, Our paper "Meta-Learning-based Proactive Online Planning for UAVs under Degraded Conditions" is accepted to RA-L (with a presentation at IROS 2022)!
 
 * June 2022, We hosted [Learning for Dynamics and Control (L4DC) Conference](https://l4dc.stanford.edu/)! 
 
