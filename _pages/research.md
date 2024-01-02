@@ -10,7 +10,7 @@ Reliable Intelligent Systems Lab (RISL) at Rensselaer Polytechnic Institute (RPI
 
 **How to Join**
 
-RISL will take multiple Ph.D. students for Fall 2024. If you are interested in joining RISL and doing research in the areas below, you need to (and you are encouraged to) submit a Ph.D. application to [ECSE at RPI](https://ecse.rpi.edu/ "ECSE") (Deadline: January 1, 2024). If you have specific questions or research ideas, please reach out to Esen Yel by email (esenyel@stanford.edu) with the subject line "Interested in joining RISL".
+RISL will take multiple Ph.D. students for Fall 2024. If you are interested in joining RISL and doing research in the areas below, you need to (and you are encouraged to) submit a Ph.D. application to [ECSE at RPI](https://ecse.rpi.edu/ "ECSE") (Deadline: January 1, 2024). If you have specific questions or research ideas, please reach out to Esen Yel by email (yele@rpi.edu) with the subject line "Interested in joining RISL".
 
 
 Research Areas
