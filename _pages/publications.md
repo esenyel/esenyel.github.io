@@ -9,7 +9,7 @@ redirect_from:
 Most of the publications can be also found on my Google Scholar profile: [Google Scholar](https://scholar.google.com/citations?user=LJ4zcxcAAAAJ&hl=en&authuser=1 "Google Scholar").
 
 
-Journal and Magazine Articles (Refereed)
+Journal and Magazine Articles 
 ===
 * N. Rober, S. M. Katz, C. Sidrane, **E. Yel**, M. Everett, M. J. Kochenderfer, and J. P. How. “_Backward reachability analysis of neural feedback loops: Techniques for linear and nonlinear systems_”, IEEE Open Journal of Control Systems, 2023 (Early Access) [PDF](https://ieeexplore.ieee.org/document/10097878 "Backreach")
 * **E. Yel***, Shijie Gao*, N. Bezzo, ”_Meta-Learning-based Proactive Online Planning for UAVs under Degraded Conditions_”, (*equal contribution), Robotics and Automation Letters (RA-L), 2022 [PDF](https://ieeexplore.ieee.org/document/9832491 "RAL'22")
@@ -18,7 +18,7 @@ Journal and Magazine Articles (Refereed)
 of Intelligent and Robotic Systems, 2020 [PDF](https://link.springer.com/epdf/10.1007/s10846-020-01192-2?sharing_token=qFtm8fdhrw7rGoxGSkag9Pe4RwlQNchNByi7wbcMAY7a0qUIrsI7Gsc1PxE0C73W76eRLdTfLaDkqH1k2r_lFJDR2pmTLZvq7Px2rnuCcKWhnHiTmHhqX_j3X_xVtcUXJzzrkbBCBQCbOpqqYUGu44c7CmLWpuWDkN5dZ2i4Jfk%3D "JINT'20")
 
 
-Conference Papers (Refereed)
+Conference Papers 
 ===
 * S. Katz, A. Corso, **E. Yel**, and M. Kochenderfer, "_Efficient Determination of Safety Requirements for Perception Systems_", AIAA/IEEE Digital Avionics Systems Conference (DASC), 2023 [PDF](https://arxiv.org/pdf/2307.01371.pdf "DASC'23")
 * A. Yildiz,  **E. Yel**, A. Corso, K. Wray, S. Witwicki and M. Kochenderfer, "_Experience filter: Transferring past experiences to unseen  tasks or environments_", IEEE Intelligent Vehicles Symposium (IV) 2023 [PDF](https://arxiv.org/pdf/2305.18633.pdf "IV'23")
@@ -33,12 +33,12 @@ International Conference on Intelligent Robots and Systems (IROS), Macau, China,
 * T. X. Lin, **E. Yel** and N. Bezzo, ”_Energy-aware Persistent Control of Heterogeneous Robotic Systems_,” American Control Conference (ACC), Milwaukee, WI, 2018  [PDF](https://ieeexplore.ieee.org/document/8431238 "ACC'18")
 * **E. Yel**, T. X. Lin and N. Bezzo, ”_Reachability-based self-triggered scheduling and replanning of UAV operations_,” NASA/ESA Conference on Adaptive Hardware and Systems (AHS), Pasadena, CA, 2017, pp. 221-228. [PDF](https://ieeexplore.ieee.org/document/8046382 "AHS'17") 
 
-Workshop Papers (Refereed)
+Workshop Papers
 ===
 * **E. Yel** and N. Bezzo, ”_Reachability-based Adaptive UAV Scheduling and Planning in Cluttered and Dynamic Environments_” ICRA Workshop on Informative Path Planning and Adaptive Sampling, Brisbane, 2018 [Webpage](https://robotics.usc.edu/~wippas/index.html "WIPPAS'18")  
 * **E. Yel** and H.I. Bozma, ”_Verifying the Recognized Place Through Localization_, ” IROS Workshop on Introspective Methods for Reliable Autonomy, Vancouver 2017
 
-Other Papers (Not Peer-reviewed)
+Other Papers 
 ===
 * G. Glaubit, K. Kleeman, N. Law, J. Thomas, S. Gao, R. Peddi, **E. Yel**, N. Bezzo ”_Fast, Safe, and Proactive Runtime Planning and Control of Autonomous Ground Vehicles in Changing Environments_”, IEEE Systems and Information Engineering Design Symposium (SIEDS), 2021 [PDF]( https://ieeexplore.ieee.org/abstract/document/9483719 "SIEDS'21") 
 * **E. Yel**, T. X. Lin and N. Bezzo, ”_Reachability-based Self-triggered UAV Motion Planning_” (2-page abstract), International Symposium on Aerial Robotics, Philadelphia, PA, 2017  [Webpage](https://sites.google.com/a/seas.upenn.edu/aerialrobotics/home "ISAR'17")  
