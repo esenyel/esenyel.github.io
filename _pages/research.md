@@ -8,10 +8,6 @@ redirect_from:
 ---
 Reliable Intelligent Systems Lab (RISL) at Rensselaer Polytechnic Institute (RPI) researches methods for improving the safety, trustworthiness, and generalizability of intelligent systems. The topics of interest include reachability analysis, decision-making under uncertainty, runtime monitoring, behavior modeling, and transfer learning. The lab's application areas include aerial robotics, mobile robot navigation, and autonomous driving. 
 
-**How to Join**
-If you are interested in joining RISL and doing research in the areas below, you can reach out to Esen Yel by email (yele@rpi.edu) with the subject line "Interested in joining RISL".
-
-
 Research Areas
 =====
 
