@@ -20,14 +20,15 @@ I enjoy hiking, ultimate frisbee, yoga, collecting vintage photographs, and  tra
 
 Recent News
 ===
+* August 2024, I gave a virtual talk at Ford Otosan.
+
+* June 2024, Our paper [Predicting Future Spatiotemporal Occupancy Grids with Semantics for Autonomous Driving](https://ieeexplore.ieee.org/abstract/document/10588710) is presented at Intelligent Vehicles Symposium.
+
 * January 2024, I joined RPI as an assistant professor.
 
 * April 2023, Our paper [Backward Reachability Analysis of Neural Feedback Loops: Techniques for Linear and Nonlinear Systems](https://ieeexplore.ieee.org/document/10097878) is accepted to IEEE Open Journal of Control Systems.
 
 * March 2023, Our paper [Experience Filter: Using Past Experiences on Unseen Tasks or Environments](https://arxiv.org/abs/2305.18633) is accepted to the IEEE Intelligent Vehicles Symposium (IV)!
 
-* March 2023, I accepted a tenure-track faculty position at Rensselaer Polytechnic Institute (RPI) Electrical, Computer, and Systems Engineering (ECSE) department! I will start in January 2024.
-
-* August 2022, I'm selected for [EECS Rising Stars Workshop](https://risingstars.utexas.edu/ "Workshop Website") at UT Austin!
 
 
