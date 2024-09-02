@@ -40,8 +40,7 @@ Workshop Papers
 
 Other Papers 
 ===
-* G. Glaubit, K. Kleeman, N. Law, J. Thomas, S. Gao, R. Peddi, **E. Yel**, N. Bezzo ”_Fast, Safe, and Proactive Runtime Planning and Control of Autonomous Ground Vehicles in Changing Environments_”, IEEE Systems and Information Engineering Design Symposium (SIEDS), 2021 [PDF]( https://ieeexplore.ieee.org/abstract/document/9483719 "SIEDS'21") 
-* **E. Yel**, T. X. Lin and N. Bezzo, ”_Reachability-based Self-triggered UAV Motion Planning_” (2-page abstract), International Symposium on Aerial Robotics, Philadelphia, PA, 2017  [Webpage](https://sites.google.com/a/seas.upenn.edu/aerialrobotics/home "ISAR'17")  
+* G. Glaubit, K. Kleeman, N. Law, J. Thomas, S. Gao, R. Peddi, **E. Yel**, N. Bezzo ”_Fast, Safe, and Proactive Runtime Planning and Control of Autonomous Ground Vehicles in Changing Environments_”, IEEE Systems and Information Engineering Design Symposium (SIEDS), 2021 [PDF]( https://ieeexplore.ieee.org/abstract/document/9483719 "SIEDS'21")  
 
 Dissertation
 ===
