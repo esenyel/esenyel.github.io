@@ -2,6 +2,7 @@
 main:
   - title: "Research"
     url: https://risl-rpi.github.io/
+    external: true
 
   - title: "Publications"
     url: /publications/
