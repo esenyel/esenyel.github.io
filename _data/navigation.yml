@@ -1,7 +1,7 @@
 # main links links
 main:
   - title: "Research"
-    url: /research/
+    url: https://risl-rpi.github.io/
 
   - title: "Publications"
     url: /publications/
