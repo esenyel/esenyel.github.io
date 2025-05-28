@@ -20,6 +20,8 @@ I enjoy hiking, ultimate frisbee, yoga, collecting vintage photographs, and  tra
 
 Recent News
 ===
+* September 2024, I attended [Daghstuhl Dagstuhl Seminar 24361](https://www.dagstuhl.de/seminars/seminar-calendar/seminar-details/24361): Artificial Intelligence and Formal Methods Join Forces for Reliable Autonomy.
+  
 * August 2024, I gave a virtual talk at Ford Otosan.
 
 * June 2024, Our paper [Predicting Future Spatiotemporal Occupancy Grids with Semantics for Autonomous Driving](https://ieeexplore.ieee.org/abstract/document/10588710) is presented at Intelligent Vehicles Symposium.
