@@ -33,15 +33,6 @@ International Conference on Intelligent Robots and Systems (IROS), Macau, China,
 * T. X. Lin, **E. Yel** and N. Bezzo, ”_Energy-aware Persistent Control of Heterogeneous Robotic Systems_,” American Control Conference (ACC), Milwaukee, WI, 2018  [PDF](https://ieeexplore.ieee.org/document/8431238 "ACC'18")
 * **E. Yel**, T. X. Lin and N. Bezzo, ”_Reachability-based self-triggered scheduling and replanning of UAV operations_,” NASA/ESA Conference on Adaptive Hardware and Systems (AHS), Pasadena, CA, 2017, pp. 221-228. [PDF](https://ieeexplore.ieee.org/document/8046382 "AHS'17") 
 
-Workshop Papers
-===
-* **E. Yel** and N. Bezzo, ”_Reachability-based Adaptive UAV Scheduling and Planning in Cluttered and Dynamic Environments_” ICRA Workshop on Informative Path Planning and Adaptive Sampling, Brisbane, 2018 [Webpage](https://robotics.usc.edu/~wippas/index.html "WIPPAS'18")  
-* **E. Yel** and H.I. Bozma, ”_Verifying the Recognized Place Through Localization_, ” IROS Workshop on Introspective Methods for Reliable Autonomy, Vancouver 2017
-
-Other Papers 
-===
-* G. Glaubit, K. Kleeman, N. Law, J. Thomas, S. Gao, R. Peddi, **E. Yel**, N. Bezzo ”_Fast, Safe, and Proactive Runtime Planning and Control of Autonomous Ground Vehicles in Changing Environments_”, IEEE Systems and Information Engineering Design Symposium (SIEDS), 2021 [PDF]( https://ieeexplore.ieee.org/abstract/document/9483719 "SIEDS'21")  
-
 Dissertation
 ===
 * **E. Yel**, ”_Online Predictive Monitoring and Proactive Planning for Safe Autonomous Robot Operations_”, University of Virginia, August 2021, [PDF](https://libraetd.lib.virginia.edu/public_view/9s161713h "Dissertation")
