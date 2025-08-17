@@ -6,7 +6,7 @@ author_profile: true
 redirect_from:
   - /publications
 ---
-Most of the publications can be also found on my Google Scholar profile: [Google Scholar](https://scholar.google.com/citations?user=LJ4zcxcAAAAJ&hl=en&authuser=1 "Google Scholar").
+A more upto date list of publications can be found on my Google Scholar profile: [Google Scholar](https://scholar.google.com/citations?user=LJ4zcxcAAAAJ&hl=en&authuser=1 "Google Scholar") and on [RISL webpage](https://risl-rpi.github.io/publications/)
 
 
 Journal and Magazine Articles 
@@ -20,6 +20,8 @@ of Intelligent and Robotic Systems, 2020 [PDF](https://link.springer.com/epdf/10
 
 Conference Papers 
 ===
+* H. Delecki, M. Vazquez-Chanlatte, **E. Yel**, K. Wray, T. Arnon, S. Witwicki, M. J. Kochenderfer, "_Entropy-regularized Point-based Value Iteration_", International Conference on Control, Decision and Information Technologies (CoDIT), 2025. (to appear)
+* M. Toyungyernsub, **E. Yel**, J. Li, M. Kochenderfer, "_Predicting future spatiotemporal occupancy grids with semantics for autonomous driving_", IEEE Intelligent Vehicles Symposium (IV), 2024, pp. 2855-2861 [PDF](https://arxiv.org/abs/2310.01723 "IV 2024")
 * S. Katz, A. Corso, **E. Yel**, and M. Kochenderfer, "_Efficient Determination of Safety Requirements for Perception Systems_", AIAA/IEEE Digital Avionics Systems Conference (DASC), 2023 [PDF](https://arxiv.org/pdf/2307.01371.pdf "DASC'23")
 * A. Yildiz,  **E. Yel**, A. Corso, K. Wray, S. Witwicki and M. Kochenderfer, "_Experience filter: Transferring past experiences to unseen  tasks or environments_", IEEE Intelligent Vehicles Symposium (IV) 2023 [PDF](https://arxiv.org/pdf/2305.18633.pdf "IV'23")
 * M. Toyungyernsub, **E. Yel**, J.Li, M. Kochenderfer, "_Dynamics-Aware Spatiotemporal Occupancy Prediction in Urban Environments_", IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS) 2022 [PDF](https://arxiv.org/pdf/2209.13172.pdf "IROS'22") 
