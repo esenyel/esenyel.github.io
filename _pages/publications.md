@@ -6,7 +6,7 @@ author_profile: true
 redirect_from:
   - /publications
 ---
-A more upto date list of publications can be found on my Google Scholar profile: [Google Scholar](https://scholar.google.com/citations?user=LJ4zcxcAAAAJ&hl=en&authuser=1 "Google Scholar") and on [RISL webpage](https://risl-rpi.github.io/publications/)
+A more upto date list of publications can be found on my Google Scholar profile: [Google Scholar](https://scholar.google.com/citations?user=7x9yQXYAAAAJ&hl=en "Google Scholar") and on [RISL webpage](https://risl-rpi.github.io/publications/)
 
 
 Journal and Magazine Articles 
